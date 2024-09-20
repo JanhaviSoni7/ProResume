@@ -7,5 +7,14 @@ plotly
 pymysql
 streamlit-tags
 Pillow
+fpdf
+io
+random
+os
+PIL
+plotly.express
+nltk
+base64
+pandas
 
 
